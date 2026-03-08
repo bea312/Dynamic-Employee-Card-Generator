@@ -23,15 +23,7 @@ https://jsonplaceholder.typicode.com/users
 - CSS  
 - Vite  
 
-## Project Structure
 
-src/
- ├── main.jsx
- ├── App.jsx
- ├── App.css
- ├── index.css
- └── components/
-      └── EmployeeCard.jsx
 
 
 ## How to Run
